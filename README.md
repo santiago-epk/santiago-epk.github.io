@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="perfil.jpg" alt="Santiago Escobar" width="200" style="border-radius: 50%; border: 3px solid #1e90ff; margin-bottom: 20px;">
+<img src="perfil.jpg" alt="Santiago Escobar" width="200" style="border-radius: 8px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
   
   <h1>Santiago Escobar Pustilnik</h1>
   <b>Cybersecurity Professional | Computer Science Undergraduate</b><br><br>
