@@ -1,8 +1,8 @@
 <div align="center">
   <img src="perfil.jpg" alt="Santiago Escobar" width="200" style="border-radius: 50%; border: 3px solid #1e90ff; margin-bottom: 20px;">
   
-  # Santiago Escobar Pustilnik
-  **Cybersecurity Professional | Computer Science Undergraduate**
+  <h1>Santiago Escobar Pustilnik</h1>
+  <b>Cybersecurity Professional | Computer Science Undergraduate</b><br><br>
   
   <p align="center">
     <a href="https://www.linkedin.com/in/santiago-epk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -18,11 +18,22 @@ I am a 20-year-old cybersecurity specialist from Córdoba, Argentina. I am curre
 ## 🛠️ Core Stack & Technologies
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Cisco_CyberOps-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
+  <!-- Operating Systems & Cloud -->
+  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"></a>
+  <a href="https://ubuntu.com/server"><img src="https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Server"></a>
+  <a href="https://www.microsoft.com/en-us/windows-server"><img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"></a>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
+  <br><br>
+  <!-- Security & Networking Tools -->
+  <a href="https://wazuh.com/"><img src="https://img.shields.io/badge/Wazuh_SIEM-00A9E5?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh"></a>
+  <a href="https://mikrotik.com/"><img src="https://img.shields.io/badge/MikroTik-292828?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik"></a>
+  <a href="https://www.cisco.com/"><img src="https://img.shields.io/badge/Cisco_CyberOps-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"></a>
+  <a href="https://attack.mitre.org/"><img src="https://img.shields.io/badge/MITRE_ATT&CK-FF6600?style=for-the-badge" alt="MITRE"></a>
+  <br><br>
+  <!-- Programming & Scripting -->
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://www.haskell.org/"><img src="https://img.shields.io/badge/Haskell-5E5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 </div>
 
 ## 🎯 Core Competencies
