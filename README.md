@@ -19,21 +19,21 @@ I am a 20-year-old cybersecurity specialist from Cordoba,Argentina. I am current
 ### 1. [Cryptography & Scripting Lab](https://github.com/santiago-epk/cryptography-lab)
 A collection of Python scripts demonstrating offensive and defensive cryptographic principles. It includes automated solvers for entropy analysis, hash collisions, and practical implementations of stream/block ciphers and RSA logic.
 
-### 2. [Identity & Access Management (AAA) Architecture]((https://github.com/santiago-epk/iam-zero-trust-architecture))
+### 2. [Identity & Access Management (AAA) Architecture](https://github.com/santiago-epk/iam-zero-trust-architecture)
 *   Implementation of Multi-Factor Authentication (OTP) and analysis of Zero Trust Architectures. 
 *   Evaluation of local versus cloud password managers and mapping attacks using the MITRE ATT&CK framework. 
 *   Experience identifying, mitigating, and exploiting vulnerabilities such as CVE-2023-2640 and CVE-2023-32629. 
-*   Adaptation of NIST CSF policies (PR.AC-1, PR.AC-4) for secure identity management and remote access control[cite: 1].
+*   Adaptation of NIST CSF policies (PR.AC-1, PR.AC-4) for secure identity management and remote access control.
 
 ### 3. [Enterprise Risk Management (Magerit)](https://github.com/santiago-epk/enterprise-risk-management)
-*   Development of comprehensive risk assessments for corporate environments using the Magerit methodology[cite: 2]. 
-*   Identification of critical assets and calculation of risk matrices[cite: 2].
-*   Prioritization of technical and governance remediation strategies against critical threats like Ransomware and Phishing[cite: 2].
+*   Development of comprehensive risk assessments for corporate environments using the Magerit methodology. 
+*   Identification of critical assets and calculation of risk matrices.
+*   Prioritization of technical and governance remediation strategies against critical threats like Ransomware and Phishing.
 
 ### 4. [Malware Analysis & Threat Intelligence](https://github.com/santiago-epk/threat-intel-malware-analysis)
-*   Technical intelligence report on Ransomware-as-a-Service (RaaS) campaigns, specifically analyzing the Netwalker attack[cite: 3]. 
-*   Detailed mapping of attacker behaviors across the Cyber Kill Chain[cite: 3]. 
-*   Application of D3FEND countermeasures for initial access, exfiltration, and impact mitigation[cite: 3].
+*   Technical intelligence report on Ransomware-as-a-Service (RaaS) campaigns, specifically analyzing the Netwalker attack. 
+*   Detailed mapping of attacker behaviors across the Cyber Kill Chain. 
+*   Application of D3FEND countermeasures for initial access, exfiltration, and impact mitigation.
 
 ### 5. [Network Security & Firewall Configurations](https://github.com/santiago-epk/network-security-firewall)
 *   Documentation of initial lab setups and network perimeter defense strategies.
@@ -46,6 +46,6 @@ A collection of Python scripts demonstrating offensive and defensive cryptograph
 I am always open to discussing cybersecurity trends, new challenges, and professional opportunities.
 
 *   **Email:** santiagoescobarpustilnik@gmail.com
-*   **LinkedIn:** [linkedin.com/in/santiago-epk](URL](https://www.linkedin.com/in/santiago-epk/))
+*   **LinkedIn:** [santiago-epk](https://www.linkedin.com/in/santiago-epk/)
 *   **Phone:** +54 9 2974034248
 *   **Instagram:** [@santiago.epk](instagram.com/santiago.epk)
