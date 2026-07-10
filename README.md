@@ -1,7 +1,7 @@
-# Santiago Escobar
+# Santiago Escobar Pustilnik
 **Cybersecurity Professional | Computer Science Undergraduate**
 
-I am a 20-year-old cybersecurity specialist from Argentina. I am currently in my second year of the Computer Science Licentiate program at FaMAF (National University of Córdoba - UNC), where I also earned a formal Diploma in Cybersecurity. My professional focus bridges advanced computer science theory with practical, offensive, and defensive security operations.
+I am a 20-year-old cybersecurity specialist from Cordoba,Argentina. I am currently in my second year of the Computer Science Licentiate program at FaMAF (National University of Córdoba - UNC), where I also earned a formal Diploma in Cybersecurity. My professional focus bridges advanced computer science theory with practical, offensive, and defensive security operations.
 
 ## Core Competencies
 
