@@ -25,17 +25,17 @@ A collection of Python scripts demonstrating offensive and defensive cryptograph
 *   Experience identifying, mitigating, and exploiting vulnerabilities such as CVE-2023-2640 and CVE-2023-32629. 
 *   Adaptation of NIST CSF policies (PR.AC-1, PR.AC-4) for secure identity management and remote access control[cite: 1].
 
-### 3. [Enterprise Risk Management (Magerit)](URL_DEL_NUEVO_REPOSITORIO_3)
+### 3. [Enterprise Risk Management (Magerit)](https://github.com/santiago-epk/enterprise-risk-management)
 *   Development of comprehensive risk assessments for corporate environments using the Magerit methodology[cite: 2]. 
 *   Identification of critical assets and calculation of risk matrices[cite: 2].
 *   Prioritization of technical and governance remediation strategies against critical threats like Ransomware and Phishing[cite: 2].
 
-### 4. [Malware Analysis & Threat Intelligence](URL_DEL_NUEVO_REPOSITORIO_4)
+### 4. [Malware Analysis & Threat Intelligence](https://github.com/santiago-epk/threat-intel-malware-analysis)
 *   Technical intelligence report on Ransomware-as-a-Service (RaaS) campaigns, specifically analyzing the Netwalker attack[cite: 3]. 
 *   Detailed mapping of attacker behaviors across the Cyber Kill Chain[cite: 3]. 
 *   Application of D3FEND countermeasures for initial access, exfiltration, and impact mitigation[cite: 3].
 
-### 5. [Network Security & Firewall Configurations](URL_DEL_NUEVO_REPOSITORIO_5)
+### 5. [Network Security & Firewall Configurations](https://github.com/santiago-epk/network-security-firewall)
 *   Documentation of initial lab setups and network perimeter defense strategies.
 *   Custom firewall configuration files and rule deployments.
 
