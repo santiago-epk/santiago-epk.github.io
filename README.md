@@ -16,10 +16,10 @@ I am a 20-year-old cybersecurity specialist from Cordoba,Argentina. I am current
 
 *(To view the source code, configurations, and detailed write-ups, please click on the individual repositories below).*
 
-### 1. [Cryptography & Scripting Lab](URL_DEL_NUEVO_REPOSITORIO_1)
+### 1. [Cryptography & Scripting Lab](https://github.com/santiago-epk/cryptography-lab)
 A collection of Python scripts demonstrating offensive and defensive cryptographic principles. It includes automated solvers for entropy analysis, hash collisions, and practical implementations of stream/block ciphers and RSA logic.
 
-### 2. [Identity & Access Management (AAA) Architecture](URL_DEL_NUEVO_REPOSITORIO_2)
+### 2. [Identity & Access Management (AAA) Architecture]((https://github.com/santiago-epk/iam-zero-trust-architecture))
 *   Implementation of Multi-Factor Authentication (OTP) and analysis of Zero Trust Architectures. 
 *   Evaluation of local versus cloud password managers and mapping attacks using the MITRE ATT&CK framework. 
 *   Experience identifying, mitigating, and exploiting vulnerabilities such as CVE-2023-2640 and CVE-2023-32629. 
