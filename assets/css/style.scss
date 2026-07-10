@@ -34,3 +34,15 @@ a:hover {
 ul {
   line-height: 1.8;
 }
+
+/* Asesinar la barra lateral del tema minimal */
+header {
+  display: none !important;
+}
+
+/* Expandir y centrar el contenido principal a pantalla completa */
+section {
+  width: 100% !important;
+  float: none !important;
+  margin: 0 auto !important;
+}
