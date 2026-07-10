@@ -45,7 +45,7 @@ A collection of Python scripts demonstrating offensive and defensive cryptograph
 
 I am always open to discussing cybersecurity trends, new challenges, and professional opportunities.
 
-*   **Email:** tu-correo@email.com
-*   **LinkedIn:** [linkedin.com/in/tu-perfil](URL)
-*   **Phone:** +54 9 XX XXXX XXXX
-*   **Instagram:** [@tu_usuario](URL)
+*   **Email:** santiagoescobarpustilnik@gmail.com
+*   **LinkedIn:** [[linkedin.com/in/tu-perfil](URL](https://www.linkedin.com/in/santiago-epk/))
+*   **Phone:** +54 9 2974034248
+*   **Instagram:** [@santiago.epk(instagram.com/santiago.epk)
