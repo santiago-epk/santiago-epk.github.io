@@ -42,14 +42,7 @@ I am a 20-year-old cybersecurity specialist from Córdoba, Argentina. I am curre
 *   **Cloud Security Architecture:** Proficiency in AWS environments, including Identity and Access Management (IAM) and Data Loss Prevention (DLP). Experienced in cloud network security, governance, mitigating Denial of Service (DDoS) attacks, and executing cloud incident response protocols.
 *   **Network & Infrastructure Security:** Configuration of secure lab environments focusing on TCP/IP and Layer 2 Security. Practical application of firewall configurations utilizing MikroTik and Winbox environments.
 *   **Applied Cryptography:** Advanced capability in utilizing Python to solve cryptographic challenges. Expertise includes evaluating randomness and entropy, breaking stream ciphers (repeated keystream, bit-flipping), analyzing block ciphers, and working with cryptographic hashes.
-*   
-## Core Competencies
-
-*   **Security Operations (SecOps):** Trained to actively monitor, detect, and respond to cyber threats and security incidents. Currently preparing for the Cisco CyberOps Associate certification.
-*   **Cloud Security Architecture:** Proficiency in AWS environments, including Identity and Access Management (IAM) and Data Loss Prevention (DLP). Experienced in cloud network security, governance, mitigating Denial of Service (DDoS) attacks, and executing cloud incident response protocols.
-*   **Network & Infrastructure Security:** Configuration of secure lab environments focusing on TCP/IP and Layer 2 Security. Practical application of firewall configurations utilizing MikroTik and Winbox environments.
-*   **Applied Cryptography:** Advanced capability in utilizing Python to solve cryptographic challenges. Expertise includes evaluating randomness and entropy, breaking stream ciphers (repeated keystream, bit-flipping), analyzing block ciphers, and working with cryptographic hashes (MD5, SHA-1, SHA-2). Proficient in authenticated encryption (ChaCha20) and public-key cryptography (small key RSA).
-
+  
 ---
 
 ## Featured Security Portfolios & Projects
