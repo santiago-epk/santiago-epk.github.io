@@ -1,0 +1,36 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Fondo oscuro premium (Estilo GitHub Dark) */
+body {
+  background-color: #0d1117 !important;
+  color: #c9d1d9 !important;
+}
+
+/* Títulos en azul corporativo */
+h1, h2, h3, h4, h5, h6 {
+  color: #58a6ff !important;
+  border-bottom-color: #30363d !important;
+}
+
+/* Enlaces más sobrios */
+a {
+  color: #58a6ff !important;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Contenedor centralizado y limpio */
+.wrapper {
+  max-width: 900px !important;
+  padding: 30px !important;
+}
+
+/* Ajuste de listas para que sean más legibles */
+ul {
+  line-height: 1.8;
+}
