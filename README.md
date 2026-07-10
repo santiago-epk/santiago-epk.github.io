@@ -1,8 +1,37 @@
-# Santiago Escobar Pustilnik
-**Cybersecurity Professional | Computer Science Undergraduate**
+<div align="center">
+  <img src="perfil.jpg" alt="Santiago Escobar" width="200" style="border-radius: 50%; border: 3px solid #1e90ff; margin-bottom: 20px;">
+  
+  # Santiago Escobar Pustilnik
+  **Cybersecurity Professional | Computer Science Undergraduate**
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/santiago-epk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:santiagoescobarpustilnik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://www.instagram.com/santiago.epk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  </p>
+</div>
 
-I am a 20-year-old cybersecurity specialist from Cordoba,Argentina. I am currently in my second year of the Computer Science Licentiate program at FaMAF (National University of Córdoba - UNC), where I also earned a formal Diploma in Cybersecurity. My professional focus bridges advanced computer science theory with practical, offensive, and defensive security operations.
+---
 
+I am a 20-year-old cybersecurity specialist from Córdoba, Argentina. I am currently in my second year of the Computer Science Licentiate program at FaMAF (National University of Córdoba - UNC), where I also earned a formal Diploma in Cybersecurity. My professional focus bridges advanced computer science theory with practical, offensive, and defensive security operations.
+
+## 🛠️ Core Stack & Technologies
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Cisco_CyberOps-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
+</div>
+
+## 🎯 Core Competencies
+
+*   **Security Operations (SecOps):** Trained to actively monitor, detect, and respond to cyber threats and security incidents. Currently preparing for the Cisco CyberOps Associate certification.
+*   **Cloud Security Architecture:** Proficiency in AWS environments, including Identity and Access Management (IAM) and Data Loss Prevention (DLP). Experienced in cloud network security, governance, mitigating Denial of Service (DDoS) attacks, and executing cloud incident response protocols.
+*   **Network & Infrastructure Security:** Configuration of secure lab environments focusing on TCP/IP and Layer 2 Security. Practical application of firewall configurations utilizing MikroTik and Winbox environments.
+*   **Applied Cryptography:** Advanced capability in utilizing Python to solve cryptographic challenges. Expertise includes evaluating randomness and entropy, breaking stream ciphers (repeated keystream, bit-flipping), analyzing block ciphers, and working with cryptographic hashes.
+*   
 ## Core Competencies
 
 *   **Security Operations (SecOps):** Trained to actively monitor, detect, and respond to cyber threats and security incidents. Currently preparing for the Cisco CyberOps Associate certification.
