@@ -46,3 +46,8 @@ section {
   float: none !important;
   margin: 0 auto !important;
 }
+
+/* Eliminar el pie de página residual */
+footer, .site-footer {
+  display: none !important;
+}
