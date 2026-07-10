@@ -50,7 +50,7 @@ I am a 20-year-old cybersecurity specialist from Córdoba, Argentina. I am curre
 *(To view the source code, configurations, and detailed write-ups, please click on the individual repositories below).*
 
 ### 1. [Cryptography & Scripting Lab](https://github.com/santiago-epk/cryptography-lab)
-A collection of Python scripts demonstrating offensive and defensive cryptographic principles. It includes automated solvers for entropy analysis, hash collisions, and practical implementations of stream/block ciphers and RSA logic.
+*    A collection of Python scripts demonstrating offensive and defensive cryptographic principles. It includes automated solvers for entropy analysis, hash collisions, and practical implementations of stream/block ciphers and RSA logic.
 
 ### 2. [Identity & Access Management (AAA) Architecture](https://github.com/santiago-epk/iam-zero-trust-architecture)
 *   Implementation of Multi-Factor Authentication (OTP) and analysis of Zero Trust Architectures. 
@@ -73,12 +73,3 @@ A collection of Python scripts demonstrating offensive and defensive cryptograph
 *   Custom firewall configuration files and rule deployments.
 
 ---
-
-## Let's Connect
-
-I am always open to discussing cybersecurity trends, new challenges, and professional opportunities.
-
-*   **Email:** santiagoescobarpustilnik@gmail.com
-*   **LinkedIn:** [santiago-epk](https://www.linkedin.com/in/santiago-epk/)
-*   **Phone:** +54 9 2974034248
-*   **Instagram:** [@santiago.epk](https://www.instagram.com/santiago.epk)
