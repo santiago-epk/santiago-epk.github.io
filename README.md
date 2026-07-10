@@ -42,6 +42,7 @@ I am a 20-year-old cybersecurity specialist from Córdoba, Argentina. I am curre
 *   **Cloud Security Architecture:** Proficiency in AWS environments, including Identity and Access Management (IAM) and Data Loss Prevention (DLP). Experienced in cloud network security, governance, mitigating Denial of Service (DDoS) attacks, and executing cloud incident response protocols.
 *   **Network & Infrastructure Security:** Configuration of secure lab environments focusing on TCP/IP and Layer 2 Security. Practical application of firewall configurations utilizing MikroTik and Winbox environments.
 *   **Applied Cryptography:** Advanced capability in utilizing Python to solve cryptographic challenges. Expertise includes evaluating randomness and entropy, breaking stream ciphers (repeated keystream, bit-flipping), analyzing block ciphers, and working with cryptographic hashes.
+* **Global Communication & Languages:** Advanced proficiency in Portuguese and Upper-Intermediate (B2) English. Fully equipped to analyze international threat intelligence, consume raw technical documentation, and collaborate effectively within distributed, multilingual corporate environments.
   
 ---
 
