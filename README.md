@@ -73,7 +73,7 @@ I am a 20-year-old cybersecurity specialist from Córdoba, Argentina. I am curre
 *   Documentation of initial lab setups and network perimeter defense strategies.
 *   Custom firewall configuration files and rule deployments.
 
-6. [Web Application Penetration Testing & Security Auditing](https://github.com/santiago-epk/Pentesting-Report-TamBot)
+### 6. [Web Application Penetration Testing & Security Auditing](https://github.com/santiago-epk/Pentesting-Report-TamBot)
 
    * Comprehensive Black and Grey Box security assessment of a cloud-based agronomy platform (TamBot) and its WhatsApp chatbot infrastructure hosted on Oracle Cloud (OCI).
    * Successfully identified and exploited critical vulnerabilities, including HMAC validation bypasses leading to data pollution, and unauthenticated exposure of internal administrative APIs.
